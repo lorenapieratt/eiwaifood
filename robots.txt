@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shungahmoo.ldyslz.xyz/sitemap.xml
